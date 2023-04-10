@@ -41,5 +41,5 @@ export const getStaticPaths = async () => {
 //     const response = await fetch(`https://pokeapi.co/api/v2/pokemon/${params.id}`)
 //     const data = await response.json()
 //     return { props: { data } }
-// }
+// } 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
 
